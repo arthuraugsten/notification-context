@@ -1,7 +1,7 @@
 ﻿using FluentAssertions;
 using Xunit;
 
-namespace Augsten.NotificationContext.UnitTests
+namespace Augsten.Notifications.UnitTests
 {
     public sealed class NotificationTests
     {

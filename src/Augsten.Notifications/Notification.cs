@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
-namespace Augsten.NotificationContext
+namespace Augsten.Notifications
 {
     /// <summary>
     /// The object represents a notification for an error state during the request.
