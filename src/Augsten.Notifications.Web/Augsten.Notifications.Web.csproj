@@ -5,4 +5,13 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 
+	<ItemGroup>
+	  <PackageReference Include="FluentValidation" Version="10.3.3" />
+	  <PackageReference Include="MediatR" Version="9.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Augsten.Notifications\Augsten.Notifications.csproj" />
+	</ItemGroup>
+
 </Project>
